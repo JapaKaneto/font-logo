@@ -1,0 +1,12 @@
+/* Webfont: Qanaya-Round-Demo */@font-face {
+    font-family: 'QanayaRoundDemo';
+    src: url('Qanaya-Round-Demo.eot'); /* IE9 Compat Modes */
+    src: url('Qanaya-Round-Demo.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Qanaya-Round-Demo.woff') format('woff'), /* Modern Browsers */
+         url('Qanaya-Round-Demo.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Qanaya-Round-Demo.svg#Qanaya-Round-Demo') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
